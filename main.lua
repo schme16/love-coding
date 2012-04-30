@@ -1,4 +1,6 @@
 
+-- test
+
 -- Variables
 
 local map -- stores tiledata
